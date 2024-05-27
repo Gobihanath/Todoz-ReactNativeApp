@@ -70,7 +70,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#EBEa',
+    backgroundColor: '#818585',
     
   },
 
@@ -104,9 +104,9 @@ const styles = StyleSheet.create({
     paddingVertical:15,
     paddingHorizontal:15,
     backgroundColor:"#fff",
-    borderRadius:60,
-    borderColor:'#c0c0c0',
-    borderWidth:1,
+    borderRadius:30,
+    borderColor:'#3DB2F5',
+    borderWidth:2,
     width:250,
 
 
@@ -118,8 +118,8 @@ const styles = StyleSheet.create({
     borderRadius:60,
     justifyContent:"center",
     alignItems:"center",
-    borderColor:'#c0c0c0',
-    borderWidth:1,
+    borderColor:'#3DF587',
+    borderWidth:2,
     marginLeft:20,
 
   },

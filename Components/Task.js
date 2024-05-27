@@ -35,7 +35,7 @@ const styles=StyleSheet.create({
     square:{
      width:24,
      height:24,
-     backgroundColor:'#55bc',
+     backgroundColor:'#3DB2F5',
      opacity:0.4,
      borderRadius:5,
      marginRight:15,
@@ -49,7 +49,7 @@ const styles=StyleSheet.create({
         width:12,
         height:12,
         backgroundColor:'#fff',
-        borderColor:"#55bc",
+        borderColor:"#3DB2F5",
         borderWidth:2,
         borderRadius:50,
 
